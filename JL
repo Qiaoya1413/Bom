@@ -1,0 +1,2 @@
+vmess=176.119.148.19:80, method=none, password=ec4655d0-e2a1-49fb-9f9f-5f8cae319f7d, obfs=ws, obfs-host=vali-dns.cp31.ott.cibntv.net, obfs-uri=/, fast-open=true, udp-relay=true, aead=true, tag=🇯🇵   Japan   IIJ   1
+vmess=147.78.247.77:80, method=none, password=665949b9-2d1f-4c27-b001-0403b7571063, obfs=ws, obfs-host=vali-dns.cp31.ott.cibntv.net, obfs-uri=/, fast-open=true, udp-relay=true, aead=true, tag=🇯🇵   Japan   IIJ   2
