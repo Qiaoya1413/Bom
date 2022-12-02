@@ -1,2 +1,2 @@
-vmess=38.18.155.124:80, method=none, password=ca20c6b2-3402-4a49-b347-515cb0afa6fe, obfs=ws, obfs-host=vali-dns.cp31.ott.cibntv.net, obfs-uri=/, fast-open=true, udp-relay=true, aead=true, tag=🇯🇵   Japan   9929
-vmess=193.32.150.86:80, method=none, password=ae43cdec-7c1a-4f64-a7b5-dcbfc3ed3e6e, obfs=ws, obfs-host=vali-dns.cp31.ott.cibntv.net, obfs-uri=/, fast-open=true, udp-relay=true, aead=true, tag=🇯🇵   Japan   BBTEC
+vmess=38.18.155.124:80, method=none, password=ca20c6b2-3402-4a49-b347-515cb0afa6fe, obfs=ws, obfs-host=vali-dns.cp31.ott.cibntv.net, obfs-uri=/, fast-open=true, udp-relay=true, aead=true, tag=Japan   9929
+vmess=193.32.150.86:80, method=none, password=ae43cdec-7c1a-4f64-a7b5-dcbfc3ed3e6e, obfs=ws, obfs-host=vali-dns.cp31.ott.cibntv.net, obfs-uri=/, fast-open=true, udp-relay=true, aead=true, tag=Japan   BBTEC
